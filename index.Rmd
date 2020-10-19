@@ -1,0 +1,12 @@
+---
+title: "Leah_Nandudu- Agri-world_Africa"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## GitHub Documents
+Agriculture holds the potential to develop Africa since 80% of the population work in the sector. Despite this potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. Agricultural policies currently implemented by African countries are weak and not favor for farmers. 
+Agric-world Africa is a non-profit organization that advocates for farmers by providing technologies and credit that promote potential agricultural productivity 
