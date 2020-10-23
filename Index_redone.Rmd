@@ -1,0 +1,18 @@
+---
+title: "Index_redo"
+author: "Leah Nandudu"
+date: "10/23/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Leah Nandudu  https://github.com/Nandudu-dotcom
+Hayley Schroeder https://github.com/hayleyadair/assignment-2-has254
+
+
+
+![](TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)  
+<center> <h2>solutions worth every farmers'smile </h2> </center>
