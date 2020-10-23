@@ -1,0 +1,8 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: Index_redone.html
+    - text: "Leah"
+      href: assignment2_ln242_redone.html
+      
